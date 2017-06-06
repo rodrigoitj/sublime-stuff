@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[dump($1);abort;]]></content>
+	<content><![CDATA[writeDump($1);abort;]]></content>
 	<tabTrigger>dua</tabTrigger>
 	<scope>source.cfscript.cfc,source.cfscript.embedded.cfml</scope>
 	<description>s - dump-abort</description>
